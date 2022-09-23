@@ -1,0 +1,5 @@
+module github.com/joesnipes/go-lambda-authorizer
+
+go 1.19
+
+require github.com/aws/aws-lambda-go v1.34.1
